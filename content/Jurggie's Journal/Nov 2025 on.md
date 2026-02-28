@@ -141,7 +141,7 @@
         - the lodestone we found in captain's quarters points somewhere down here
         - one of the one's from the first cloud (ship) pointing straight ahead
     - when we surface, we see giant dragon coming
-        - yakida comes! he's the storm dragon?
+        - [[Yekiida]] comes! he's the storm dragon?
         - under the water, he expected us to see
             - large machine
         - there shouldn't be that much water
@@ -171,7 +171,7 @@
         - worst case scenario, storm goes away completely
         - the continents have "back up systems"
         - sky krackens can go below clouds - they "arne't original" they've been contained to clouds and below.
-        - yakida's intellect is < 15
+        - [[Yekiida]]'s intellect is < 15
         - charisma = 17
         - keep the ship safe
             - it was a gift from the artisan and another diety
