@@ -1,3 +1,11 @@
+---
+aliases:
+  - Witness
+tags:
+  - npc
+  - Deity
+---
+
 One of the 12 Old Deities, takes the form of a woman with golden eyes- but not always the same woman.
 
 Domain over the Sun
