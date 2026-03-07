@@ -1,3 +1,5 @@
+<iframe src="/tools/continent-clock.html" width="800" height="600"></iframe>
+
 ## Sessions
 [[After Action/]]
 [[Jurggie's Journal/]]
@@ -11,4 +13,4 @@
 [[References/People]]
 
 ## Tools
-[[Tools/]]![[upper_world_year_dial_midnight_aligned.html]]
+[[Tools/]]!
