@@ -3,7 +3,7 @@
   
 - They are served by a cult who operate within the Empire and appear to worship the Eye.
   
-- Purple [[trust]] crystals can be used in an alchemical process that creates "Magic Crack", a powdery substance that appears to grant spellcasting capabilities to the user. It is unknown if there are side effects.
+- Purple [[Trust]] crystals can be used in an alchemical process that creates "Magic Crack", a powdery substance that appears to grant spellcasting capabilities to the user. It is unknown if there are side effects.
   
 - [[Stabby Joe]] is possessed by the Great Eye.
   

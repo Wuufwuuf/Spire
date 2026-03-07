@@ -1,9 +1,9 @@
 - session i missed - side story with a scorpion
-- going to visit [[The Judge Cult|cult of the judge]] to talk about [[trust]]
+- going to visit [[The Judge Cult|cult of the judge]] to talk about [[Trust]]
     - they were being scryed on - cult dispursed it
         - someone knows we're meeting, not sure who
         - we put up opaque tiny hut and some folks can read lips
-        - [[hannah]] tells them about the [[trust]] in the throne
+        - [[Hannah]] tells them about the [[Trust]] in the throne
         - when the world was formed, as a consequence, some artifacts were unintentionally formed
         - no one knows when king was born
         - he went through several orphanages, each of which had an accident that caused them to shut down.
@@ -14,13 +14,13 @@
             - 1 set of magical creatures attacking
         - maybe a bastard? There were several others that died by accident or by drinking.	
     - once a noble has a mental shift, it is permanent and they are perfect from there on - like the king.
-    - king has a few confidantes who are [[trust]] aware
+    - king has a few confidantes who are [[Trust]] aware
     - the current king showed up as an orphan child and instantly became the heir, even though there were 4 existing valid heirs
-    - they take a small sample of the orange [[trust]] mold
+    - they take a small sample of the orange [[Trust]] mold
         - they pour acid in with it and 
-        - left behind yellow [[trust]] (which is only in ancient texts)
+        - left behind yellow [[Trust]] (which is only in ancient texts)
     - lizards involved with cultists
-        - both groups related to purple [[trust]]
+        - both groups related to purple [[Trust]]
         - activities stopped about 1 mo ago
             - that's when judge folks stopped being able to track Tobias (Kyle side character)
     - they propose that we look into the king together
@@ -32,7 +32,7 @@
         - Steven Idaho
 - the world feels a bit warmer to [[Jurggie]], and some of the [[Watcher]]'s power is returning slowly.
     - "stay in the light"
-    - [[watcher]] tattoo on right hand
+    - [[Watcher]] tattoo on right hand
     - we haven't heard much about the events of ababababa while here in [[Corso]]. maybe talking to the wrong people?
 - 12/12/2025
     - current plot threads
@@ -55,7 +55,7 @@
         - check for bugs
             - magical water tap
             - everburning lamps
-            - in [[hannah]]'s room the sheets are enchanted to stay clean and new
+            - in [[Hannah]]'s room the sheets are enchanted to stay clean and new
                 -  and one of her books is enchanted
                     - divination
                         - "thought on the salvation of divinity"
@@ -79,20 +79,20 @@
 - we track the other adventuring party into the woods
     - find some decayed bodies of spellcasters
         - not adventurers
-        - similar to the cultmemembers that got [[stabby joe]] posessed
+        - similar to the cultmemembers that got [[Stabby Joe]] posessed
             - find 40 gold 
             - in the nicest robe, they are carrying a letter with them
-                - [[hannah]] recognizes it as a code - will take time to break
-    - the lizards are made of [[trust]], so they don't leave bodies behind
+                - [[Hannah]] recognizes it as a code - will take time to break
+    - the lizards are made of [[Trust]], so they don't leave bodies behind
     - we can see where the fight happened
     - trail just suddenly stops for the adventurers
         - we assume the lizards died
         - seems the other party forgot 1 purple d6
         - signs of forgotten dieties, similar to what we found when we fought the automatonish statue about the space aids
-    - [[mogus]] can tell its a holy site and get an impression of each diety
+    - [[Mogus]] can tell its a holy site and get an impression of each diety
     - detect magic
         - some lingering energy
-            - conjuration ([[trust]]-based)
+            - conjuration ([[Trust]]-based)
                 - summoning/transportation
                 - it was powerful, and had focal point of archway. didn't leave any runes behind or anything
             - near corpse of main spellcaster, normal conjuration
@@ -114,11 +114,11 @@
             - there is light in the tunnel, light sources rushing by
                 - specifics hidden by pact
             - the platform has a slight curvature
-            - [[mogus]] tries to explain to [[Jurggie]] how to notice [[trust]]
-                - long term project to [[jurggie]]
+            - [[Mogus]] tries to explain to [[Jurggie]] how to notice [[Trust]]
+                - long term project to [[Jurggie]]
             - saying they wish they hadn't gone thru portal - messed with teleporter at the ruins, but no more specifics.
             - someone asks about tobias's stopwatch
-    - steal [[hannah]]'s sheets - next time
+    - steal [[Hannah]]'s sheets - next time
     - angry jake seems to have changed personality during the day - kyle thinks maybe he's the type of barbarian whose rage removes charm effects.
         - feels like his friend is acting is acting weird
             - used to hang out but not anymore
@@ -128,10 +128,10 @@
     - throne over portal to demon world
         - and continent moving into position
             - about 2 weeks from now circled on his calendar
-    - [[sneed]] visits judge cult
+    - [[Sneed]] visits judge cult
     - old throne has mark
         - timberfoot - wilpus
-    - 25 words sending stone to [[peach tree]]
+    - 25 words sending stone to [[Peach Tree]]
         - King [[Corso]]'s throne has Timberfoot marking on it. Ask Wilpus if he knows anything about it. Properties? Abilities? XOXO
         - grandpa made it, defensive barrier ability to cure poisons &....
     - below the storm sea
@@ -139,7 +139,7 @@
         - a gear the size of a continent coated in light soarces.
         - other airships moving around & contraptions floating along surface of unimaginably large lake
         - the lodestone we found in captain's quarters points somewhere down here
-        - one of the one's from [[the first cloud]] (ship) pointing straight ahead
+        - one of the one's from [[The First Cloud]] (ship) pointing straight ahead
     - when we surface, we see giant dragon coming
         - [[Yekiida]] comes! he's the storm dragon?
         - under the water, he expected us to see
@@ -152,14 +152,14 @@
             - even with storm
                 - judge is divider, lodestone might be pointing to it
             - above
-                - [[jurggie]] 
-                - [[scholar]] 
+                - [[Jurggie]] 
+                - [[Scholar]] 
                 - cultivar
-            - [[mogus]] can change, judge on line too
+            - [[Mogus]] can change, judge on line too
             - below
                 - architect
                 - artist
-        - the vision [[jurggie]] saw of the other party - they were probably inside the contraption	
+        - the vision [[Jurggie]] saw of the other party - they were probably inside the contraption	
         - he's sensing that a bad guy is heading towards where he is in his shrine
         - they think they sealed the demon king through a portal.
         - the sealing structure was incorporated into the castle structure
@@ -175,7 +175,7 @@
         - charisma = 17
         - keep the ship safe
             - it was a gift from the artisan and another diety
-    - [[jurggie]] spent 520 gold on scrolls
+    - [[Jurggie]] spent 520 gold on scrolls
         - invisibility
         - sending
         - gold not yet subtracted from inventory
@@ -188,16 +188,16 @@
     - dispels the charm on slim jim! 
     - next time we will ask slim jim and angry jake some questions
         -  they didn't have much info - allen warned them against eating at the castle
-    - also [[jurggie]] and hanna will invisible and sit on throne 
+    - also [[Jurggie]] and hanna will invisible and sit on throne 
     - judge folks showed us voice clip of queen where she sounds like she is shucking off her human suit, breaking open a bottle and chuggling it, and flying into the night in a different form
-    - [[jurggie]] watching gate to try and find where the sugar is coming from
+    - [[Jurggie]] watching gate to try and find where the sugar is coming from
         - after 10 min, see aura of the sugar using the detect magic
         - allen to prep find object tomorrow
     - we eat at a restaurant
-    - [[sniv]] is getting near finishing her null-magic thingy
-    - [[sneed]] going to stake out queen's window to see if she flies away again.
+    - [[Sniv]] is getting near finishing her null-magic thingy
+    - [[Sneed]] going to stake out queen's window to see if she flies away again.
     - starting tomorrow - night time
-        - [[jurggie]] scry on yakita
+        - [[Jurggie]] scry on yakita
             - see religious temple. see yakita, looks different from projections. frailer & older. 
                 - courtyard full of corpses, there was a fight.
                 - yakita dragging bodies in pile. he's wounded and bloodied. moving stiffly.

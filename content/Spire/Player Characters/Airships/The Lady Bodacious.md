@@ -1,2 +1,2 @@
 "Tender" Ship to [[The First Cloud]]
-![[Assets/Lady Bodacious.png|600]]
+![[Lady Bodacious.png|600]]

@@ -14,4 +14,4 @@ Occasionally provided [[Mogus]] with advice, or warned him of danger.
 
 Died at [[Abba]] in battle against the [[False Spider Amalgamation]]
 
-Their [[divine seed]] is now in [[Jurggie]]'s possession.
+Their [[Divine Seed]] is now in [[Jurggie]]'s possession.

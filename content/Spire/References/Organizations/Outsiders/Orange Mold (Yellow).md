@@ -1,4 +1,4 @@
-- Grows quickly when exposed to small amounts of [[trust]].
+- Grows quickly when exposed to small amounts of [[Trust]].
   
 - Inhabits constructs, using them as a vessel.
   
