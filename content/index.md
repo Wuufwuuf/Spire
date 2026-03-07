@@ -11,5 +11,4 @@
 [[References/People]]
 
 ## Tools
-[[Tools/]]
-![[upper_world_year_dial_midnight_aligned.html]]
+[[Tools/]]![[upper_world_year_dial_midnight_aligned.html]]
