@@ -1,0 +1,116 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Upper World Year Dial</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #111;
+        color: #eee;
+    }
+    canvas {
+        background-color: #000;
+        margin-top: 20px;
+        border: 1px solid #444;
+    }
+    input[type=range] {
+        width: 60%;
+    }
+</style>
+</head>
+<body>
+
+<h2>Upper World Year Dial</h2>
+<p>Day of Year: <span id="dayValue">0</span> / 360</p>
+<input type="range" min="0" max="360" value="0" id="daySlider">
+
+<br>
+<canvas id="dial" width="700" height="700"></canvas>
+
+<script>
+const canvas = document.getElementById("dial");
+const ctx = canvas.getContext("2d");
+
+const centerX = canvas.width / 2;
+const centerY = canvas.height / 2;
+
+const YEAR = 360;
+
+// Orbital periods (3:1 cascade)
+const OUTER_PERIOD = 360;
+const MIDDLE_PERIOD = 120;
+const INNER_PERIOD = 40;
+
+// Radii
+const R_INNER = 120;
+const R_MIDDLE = 220;
+const R_OUTER = 320;
+
+// Offset so Day 0 is at top (midnight position)
+const CLOCK_OFFSET = -Math.PI / 2;
+
+// Draw orbit circles
+function drawOrbit(radius) {
+    ctx.beginPath();
+    ctx.arc(centerX, centerY, radius, 0, 2 * Math.PI);
+    ctx.strokeStyle = "#555";
+    ctx.stroke();
+}
+
+function drawBody(x, y, label) {
+    ctx.beginPath();
+    ctx.arc(x, y, 8, 0, 2 * Math.PI);
+    ctx.fillStyle = "#fff";
+    ctx.fill();
+    ctx.fillText(label, x + 10, y - 10);
+}
+
+function position(radius, period, day) {
+    const theta = CLOCK_OFFSET + (2 * Math.PI * (day / period));
+    const x = centerX + radius * Math.cos(theta);
+    const y = centerY + radius * Math.sin(theta);
+    return [x, y];
+}
+
+function draw(day) {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    // Draw orbits
+    drawOrbit(R_INNER);
+    drawOrbit(R_MIDDLE);
+    drawOrbit(R_OUTER);
+
+    // Draw Spire
+    ctx.beginPath();
+    ctx.arc(centerX, centerY, 12, 0, 2 * Math.PI);
+    ctx.fillStyle = "#0ff";
+    ctx.fill();
+    ctx.fillText("Spire", centerX + 15, centerY - 15);
+
+    // Draw continents
+    let [ix, iy] = position(R_INNER, INNER_PERIOD, day);
+    let [mx, my] = position(R_MIDDLE, MIDDLE_PERIOD, day);
+    let [ox, oy] = position(R_OUTER, OUTER_PERIOD, day);
+
+    drawBody(ix, iy, "Inner");
+    drawBody(mx, my, "Middle");
+    drawBody(ox, oy, "Outer");
+}
+
+const slider = document.getElementById("daySlider");
+const dayValue = document.getElementById("dayValue");
+
+slider.addEventListener("input", function() {
+    const day = parseInt(this.value);
+    dayValue.textContent = day;
+    draw(day);
+});
+
+draw(0);
+</script>
+
+</body>
+</html>

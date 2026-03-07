@@ -12,3 +12,4 @@
 
 ## Tools
 [[Tools/]]
+![[upper_world_year_dial_midnight_aligned.html]]
