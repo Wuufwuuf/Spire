@@ -1,16 +1,17 @@
 <iframe src="Tools/continent-clock/" width="800" height="600"></iframe>
 
 ## Sessions
-[[After Action/]]
-[[Jurggie's Journal/]]
+[[Spire/After Action/index|index]]
+[[Spire/Jurggie's Journal/index|index]]
 ## World
-[[World Info/Continents]]
-[[World Info]]
+[[Continents]]
 [[World Info/Towns and Cities]]
+
 ## References
-[[References/index]]
+[[Spire/References/Concepts/index|index]]
 [[References/Organizations]]
 [[References/People]]
+[[Spire/References/Concepts/index|index]]
 
 ## Tools
-[[Tools/]]!
+[[Spire/Tools/index|index]]
