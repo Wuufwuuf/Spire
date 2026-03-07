@@ -1,1 +1,1 @@
-![[Lady Bodacious.png]]
+![[Assets/Lady Bodacious.png|600]]

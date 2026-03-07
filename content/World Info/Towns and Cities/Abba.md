@@ -9,7 +9,7 @@ tags:
   - City
   - Port
 ---
-![[Abbba.jpg]]
+![[Assets/Abbba.jpg|600]]
 
 Port City on the continent of [[Third]]
 Home of the [[Automamamia Family]]
