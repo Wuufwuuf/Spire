@@ -139,7 +139,7 @@
         - a gear the size of a continent coated in light soarces.
         - other airships moving around & contraptions floating along surface of unimaginably large lake
         - the lodestone we found in captain's quarters points somewhere down here
-        - one of the one's from the first cloud (ship) pointing straight ahead
+        - one of the one's from [[the first cloud]] (ship) pointing straight ahead
     - when we surface, we see giant dragon coming
         - [[Yekiida]] comes! he's the storm dragon?
         - under the water, he expected us to see

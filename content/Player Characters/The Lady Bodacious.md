@@ -1,1 +1,0 @@
-![[Assets/Lady Bodacious.png|600]]
