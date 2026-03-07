@@ -1,0 +1,2 @@
+- Parasitic nature
+- Casting Detect Thoughts on an infected creature will reveal multiple minds within the body.
