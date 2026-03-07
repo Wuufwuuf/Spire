@@ -61,7 +61,7 @@
                         - "thought on the salvation of divinity"
         - hanna posse finds well-hidden passageway in each room
             - leads to what seems service or exit hallway
-        - [[hannah]] and eloria go sneaking and find queens room, kings, king's armory, & war-room
+        - [[Hannah]] and [[Aelorea|eloria]] go sneaking and find queens room, kings, king's armory, & war-room
             - there are glyphs on doors. she copies them down.
                 - rigged to cast shatter if someone touches door when not supposed to
                     - each on tuned to specific  signature - maybe an object or marking?
@@ -114,7 +114,7 @@
             - there is light in the tunnel, light sources rushing by
                 - specifics hidden by pact
             - the platform has a slight curvature
-            - [[mogus]] tries to explain to [[jurggie]] how to notice [[trust]]
+            - [[mogus]] tries to explain to [[Jurggie]] how to notice [[trust]]
                 - long term project to [[jurggie]]
             - saying they wish they hadn't gone thru portal - messed with teleporter at the ruins, but no more specifics.
             - someone asks about tobias's stopwatch
@@ -183,7 +183,7 @@
         - the sugar gives disad on wis ability checks and saves for 1 hour
             - food is being served really frequently
         - even though they are looking for it, it's still hard for them to notice the charm on people using detect magic. there is something seperate masking the magic
-    - eloria checks storeroom - there is a LOT of the low wis dust
+    - [[Aelorea|Eloria]] checks storeroom - there is a LOT of the low wis dust
     - allen dispel magic on slim jim - finds that the charm is at least a 7th level spell
     - dispels the charm on slim jim! 
     - next time we will ask slim jim and angry jake some questions
