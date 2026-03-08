@@ -5,13 +5,12 @@
 [[Spire/Jurggie's Journal/]]
 ## World
 [[Spire/World Info/Continents/]]
-[[World Info/Towns and Cities]]
+[[Spire/World Info/Towns and Cities]]
 
 ## References
-[[Spire/References/Concepts/index|index]]
-[[References/Organizations]]
-[[References/People]]
-[[Spire/References/Concepts/index|index]]
+[[Spire/References/Concepts/]]
+[[Spire/References/Organizations/]]
+[[Spire/References/People]]
 
 ## Tools
 [[Spire/Tools/index|index]]
